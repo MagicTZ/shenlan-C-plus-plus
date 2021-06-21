@@ -1,5 +1,6 @@
 # ignore build files
 /proj_1/build/*
+/proj_1/*.zip
 !/builds/build.bat
 /coverage_builds/*
 /ubuntu_builds/*
