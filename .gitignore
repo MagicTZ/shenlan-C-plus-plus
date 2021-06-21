@@ -1,0 +1,13 @@
+# ignore build files
+/proj_1/build/*
+!/builds/build.bat
+/coverage_builds/*
+/ubuntu_builds/*
+# ignore install files
+/install
+# ignore .vscode files
+/.vscode
+# ignore clangformat ouput
+/materials/clang_format.patch
+# ignore download dependencies
+# /data/*
